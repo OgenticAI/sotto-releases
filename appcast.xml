@@ -2,5 +2,14 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Sotto Gov</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sat, 03 Oct 2026 23:06:45 +0100</pubDate>
+            <sparkle:version>59</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/OgenticAI/sotto-releases/releases/download/updates/Sotto-Gov-0.1.0-59.dmg" length="390741002" type="application/octet-stream" sparkle:edSignature="vmOjIefZRxiTTo6dqEkQuQF7F61LYK7GCmmNlgC4Y7S6FSYLr8TC/fzxIsX5MmSsCMUyl7Qd7OWHKTe2ZeLmBA=="/>
+        </item>
     </channel>
 </rss>

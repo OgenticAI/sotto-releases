@@ -4,6 +4,25 @@
         <title>Sotto Gov</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Fri, 30 Oct 2026 20:55:53 +0100</pubDate>
+            <sparkle:version>79</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul>
+<li>Models developed in China are no longer offered, and a copy downloaded earlier cannot be loaded.</li>
+<li>A box you draw, or a page you withhold, now says a reviewer made it, not that Sotto detected it.</li>
+<li>One click on Start processing creates the production and starts it.</li>
+<li>Where two boxes overlap, the released page no longer prints their exemption codes on top of each other.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/OgenticAI/sotto-releases/releases/download/updates/Sotto-Gov-0.1.0-79.dmg" length="390716486" type="application/octet-stream" sparkle:edSignature="0fibjDjD4MCKG3UI/e0qwPqPmD8jk7GTAvQihAuYAI15HWpDMyOcoRnyDP0GBe1i0RcMAQxxK90evRkmHJcBCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/OgenticAI/sotto-releases/releases/download/updates/Sotto.Gov79-59.delta" sparkle:deltaFrom="59" length="641266" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gqU8Kwxa5VUifdGnJgZHnq/56SjTqQD4wBSSR2nK5/q8x82a9zSno8pBbOAOvMQnW2pLkoQViud5raoeguG2Dw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Sat, 03 Oct 2026 23:06:45 +0100</pubDate>
             <sparkle:version>59</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>

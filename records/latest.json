@@ -1,0 +1,11 @@
+{
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYjZjcnRJeEwvRC95cVdGZG9ZRlRhTCtST0N3R0wzTHlBTEcycHFRb0c1Ti9hQzZnM1NtSTlJVDBRbm1OaFc3clM0UThldmVHOE1HbnpVU1lvMFloQVhhYVg2NkQ0eFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTM3MTYxCWZpbGU6U290dG8tUmVjb3Jkcy0wLjEuMC1tYWMtYXJtNjQuYXBwLnRhci5negoyRHFtZmRiN2VxRDY0Q3pGTXZmekVDNGxiY3FMRnB4NWhnYSthMFcyOFprZXNkU21kQ1kwaHpaUjVUTFlhcndLOGFGd002NXVNQ3VuZnovNEhockJEQT09Cg==",
+      "url": "https://github.com/OgenticAI/sotto-releases/releases/download/records-updates/Sotto-Records-0.1.0-mac-arm64.app.tar.gz"
+    }
+  },
+  "version": "0.1.0",
+  "notes": "First signed Mac build of Sotto Records.",
+  "pub_date": "2026-11-01T13:44:56Z"
+}

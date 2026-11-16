@@ -5,11 +5,11 @@
       "url": "https://github.com/OgenticAI/sotto-releases/releases/download/records-updates/Sotto-Records-0.1.0-mac-arm64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYjZjcnRJeEwvRDIza2FKZWZRYnRTSklERDcxMUhYU3lpL0I4UDlub3BLUTk5Z0Jac3Y1K09yWWFnYmZ1eFBrM2ZJU053RTJjcWIvcXBmSWQ2M01NYjFLU0ZaZW1iMEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODM0Mjk0CWZpbGU6c2V0dXAuZXhlCkE3QWxNbHZOZHhBa0k1YmNlank4VjJVT2tFVVVIcGhQbnhBSEloa1VVaDNnTzZ3V1h0bytGa3BhdEFJRU42SUxxQm1aOXJIWWpPV0VQcUdGWGxuSUJBPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYjZjcnRJeEwvRDNEZnUwcGZySjJzekhTaXhsQXZCbTZxaWZLc2J4TE9ndkVhWUM0V0Mxbk5BOThmU1l5NjFGcGJxdWcxMVp2M2xtMlB0dHNSR2dZMGlUWlVhQjJjRndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODUxNTMyCWZpbGU6c2V0dXAuZXhlCndRRVlPLzhjSVNLZU9KY1RTQzBQbzFNUUlHajV2M0x6MGE0S0JzckM2RUcxR080WEdleStrZHRLWUJyNlFMWkgxWXZXOGFJMXpxaGJHZ2t0Ync5TEN3PT0K",
       "url": "https://github.com/OgenticAI/sotto-releases/releases/download/records-updates/Sotto-Records-0.1.0-windows-x64-setup.exe"
     }
   },
   "version": "0.1.0",
   "notes": "First signed Mac build of Sotto Records.",
-  "pub_date": "2026-11-16T13:18:42Z"
+  "pub_date": "2026-11-16T18:08:17Z"
 }
